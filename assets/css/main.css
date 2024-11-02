@@ -3956,8 +3956,7 @@ body.is-preload #sidebar nav ul li {
     background-attachment: scroll;
   }
 }
-
-/* typing the name and blinking the cursor*/
+/* typing the name and blinking the cursor
 .typing-effect {
   font-size: 2em;
   white-space: nowrap;
@@ -3965,8 +3964,8 @@ body.is-preload #sidebar nav ul li {
   border-right: 0.15em solid black; /* Cursor color */
   animation: typing 6s steps(30, end) infinite,
     blink-cursor 0.7s step-end infinite;
-}
-
+}*/
+/*
 @keyframes typing {
   0% {
     width: 0; /* Start with no text */
@@ -3977,14 +3976,14 @@ body.is-preload #sidebar nav ul li {
   100% {
     width: 32%; /* Keep full text visible at the end */
   }
-}
-
+}*/
+/*
 @keyframes blink-cursor {
   0%,
   100% {
     border-color: black; /* Cursor visible while typing */
-  }
-  50% {
+  }*/
+ /* 50% {
     border-color: white; /* Cursor blinks */
   }
-} **/
+} */
