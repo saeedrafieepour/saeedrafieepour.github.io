@@ -3963,7 +3963,7 @@ body.is-preload #sidebar nav ul li {
   }
 }
 
-/* typing the name and blinking the cursor*/
+/* 
 .typing-effect {
   font-size: 2em;
   white-space: nowrap;
@@ -3975,22 +3975,22 @@ body.is-preload #sidebar nav ul li {
 
 @keyframes typing {
   0% {
-    width: 0; /* Start with no text */
+    width: 0; 
   }
   90% {
-    width: 32%; /* Show full text */
+    width: 32%; 
   }
   100% {
-    width: 32%; /* Keep full text visible at the end */
+    width: 32%; 
   }
 }
 
 @keyframes blink-cursor {
   0%,
   100% {
-    border-color: black; /* Cursor visible while typing */
+    border-color: black; 
   }
   50% {
-    border-color: white; /* Cursor blinks */
+    border-color: white; 
   }
-} **/
+} */
